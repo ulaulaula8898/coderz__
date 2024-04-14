@@ -170,12 +170,12 @@ kbd{
     animation-name: Nova;
     animation-duration: 0.5s;
     animation-iteration-count: infinite;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
 
 .pf_logo{
-    position: absolute;
-    top: 185px;
-    left: 980px;
     height: 278px;
     width: 280px;
     border: transparent;
